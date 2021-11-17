@@ -1,0 +1,5 @@
+dist/*
+package.json
+.eslintrc.json
+.github/
+yarn.lock
